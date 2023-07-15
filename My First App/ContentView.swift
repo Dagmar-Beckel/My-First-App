@@ -18,7 +18,7 @@ struct ContentView: View {
             Image("puppy")
                 .resizable(resizingMode:.stretch)
                 .aspectRatio(contentMode:.fit)
-        }.padding()
+        }.padding() 
         
     }
 }
